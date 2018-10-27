@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jshacks/jshacks2018-auto-ecomm-testbot#readme",
   "dependencies": {
     "cssstats": "3.2.0",
+    "decimal.js": "10.0.1",
     "get-css": "1.2.7-2",
     "lighthouse": "3.0.0-beta.0"
   }
