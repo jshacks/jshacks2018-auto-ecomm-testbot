@@ -19,5 +19,6 @@ Audience we are targeting with the product is comprised of shop owners, developm
 * Alexandru Albu
 * Eduard Budacu
 * Cristi Filimon
+* Claudiu Harton
 * Raluca Serdaru
 
