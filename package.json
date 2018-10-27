@@ -1,0 +1,19 @@
+{
+  "name": "jshacks2018-auto-ecomm-testbot",
+  "version": "1.0.0",
+  "description": "## The goal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshacks/jshacks2018-auto-ecomm-testbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshacks/jshacks2018-auto-ecomm-testbot/issues"
+  },
+  "homepage": "https://github.com/jshacks/jshacks2018-auto-ecomm-testbot#readme"
+}
