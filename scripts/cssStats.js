@@ -1,19 +1,17 @@
 const cssStats = require('cssstats');
+const getCss = require('get-css')
 
-module.exports = function runCss(slug, url) {
+module.exports = async function runCss(slug, url) {
   console.log(`-- Start css crawl for ${slug}`);
-  
-  const promise = new Promise((resolve, reject) => {
-    const stats = cssStats(url, {
-      specificityGraph : true,
-      repeatedSelectors: true,
-      propertyResets   : true,
+
+    const css = await getCss(url);
+    const stats = cssStats(css.css, {
+        specificityGraph: true,
+        repeatedSelectors: true,
+        propertyResets: true
     });
-  
+
     console.log(`-- Done css crawl for ${slug}`);
-  
-    resolve(stats);
-  });
-  
-  return promise;
+  return stats
+
 };

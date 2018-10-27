@@ -18,8 +18,8 @@ chromeLauncher.launch({chromeFlags: ['--headless']}).then(chrome => {
       lighthouse(website.slug, website.main_url, chrome),
       css(website.slug, website.main_url),
     ]).then(results => {
-      fs.writeFile(path.resolve(__dirname, `./../data/lighthouse/${website.slug}.json`), JSON.stringify(results[0]));
-      fs.writeFile(path.resolve(__dirname, `./../data/css/${website.slug}.json`), JSON.stringify(results[1]));
+      fs.writeFile(path.resolve(__dirname, `./../data/lighthouse/${website.slug}.json`), JSON.stringify(results[0]),function() {});
+      fs.writeFile(path.resolve(__dirname, `./../data/css/${website.slug}.json`), JSON.stringify(results[1]),function() {});
     });
   }
 });
