@@ -1,0 +1,3428 @@
+[
+  {
+    "slug": "dyfashion-ro",
+    "base_url": "dyfashion.ro",
+    "main_url": "https://www.dyfashion.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "elefant-ro",
+    "base_url": "elefant.ro",
+    "main_url": "http://www.elefant.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "libris-ro",
+    "base_url": "libris.ro",
+    "main_url": "https://www.libris.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "answear-ro",
+    "base_url": "answear.ro",
+    "main_url": "http://answear.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "somproduct-ro",
+    "base_url": "somproduct.ro",
+    "main_url": "http://www.somproduct.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "orange-ro",
+    "base_url": "orange.ro",
+    "main_url": "http://www.orange.ro/",
+    "category": "Telecom"
+  },
+  {
+    "slug": "depurtat-ro",
+    "base_url": "depurtat.ro",
+    "main_url": "http://www.depurtat.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "nichiduta-ro",
+    "base_url": "nichiduta.ro",
+    "main_url": "http://www.nichiduta.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "fashion-24-ro",
+    "base_url": "fashion-24.ro",
+    "main_url": "http://fashion-24.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "epiesa-ro",
+    "base_url": "epiesa.ro",
+    "main_url": "http://www.epiesa.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "lensa-ro",
+    "base_url": "lensa.ro",
+    "main_url": "http://lensa.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "modlet-ro",
+    "base_url": "modlet.ro",
+    "main_url": "https://www.modlet.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "starshiners-ro",
+    "base_url": "starshiners.ro",
+    "main_url": "https://starshiners.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "wildfashion-ro",
+    "base_url": "wildfashion.ro",
+    "main_url": "http://www.wildfashion.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "evomag-ro",
+    "base_url": "evomag.ro",
+    "main_url": "http://www.evomag.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "carturesti-ro",
+    "base_url": "carturesti.ro",
+    "main_url": "http://carturesti.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "autoeco-ro",
+    "base_url": "autoeco.ro",
+    "main_url": "https://www.autoeco.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "spy-shop-ro",
+    "base_url": "spy-shop.ro",
+    "main_url": "http://www.spy-shop.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "inpuff-ro",
+    "base_url": "inpuff.ro",
+    "main_url": "http://www.inpuff.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "ihunt-ro",
+    "base_url": "ihunt.ro",
+    "main_url": "http://www.ihunt.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "bonami-ro",
+    "base_url": "bonami.ro",
+    "main_url": "https://www.bonami.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "provident-ro",
+    "base_url": "provident.ro",
+    "main_url": "https://www.provident.ro/",
+    "category": "Financial services"
+  },
+  {
+    "slug": "horacredit-ro",
+    "base_url": "horacredit.ro",
+    "main_url": "https://horacredit.ro/",
+    "category": "Financial services"
+  },
+  {
+    "slug": "vivacredit-ro",
+    "base_url": "vivacredit.ro",
+    "main_url": "https://vivacredit.ro/",
+    "category": "Financial services"
+  },
+  {
+    "slug": "fabricadetuica-ro",
+    "base_url": "fabricadetuica.ro",
+    "main_url": "http://www.fabricadetuica.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "vivre-ro",
+    "base_url": "vivre.ro",
+    "main_url": "http://www.vivre.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "vegis-ro",
+    "base_url": "vegis.ro",
+    "main_url": "https://vegis.ro/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "notino-ro",
+    "base_url": "notino.ro",
+    "main_url": "https://www.notino.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "credius-ro",
+    "base_url": "credius.ro",
+    "main_url": "https://www.credius.ro",
+    "category": "Financial services"
+  },
+  {
+    "slug": "ppt-ro",
+    "base_url": "ppt.ro",
+    "main_url": "https://www.ppt.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "avon-ro",
+    "base_url": "avon.ro",
+    "main_url": "https://www.avon.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "smokemania-ro",
+    "base_url": "smokemania.ro",
+    "main_url": "http://www.smokemania.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "b-mall-ro",
+    "base_url": "b-mall.ro",
+    "main_url": "https://www.b-mall.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "f64-ro",
+    "base_url": "f64.ro",
+    "main_url": "https://www.f64.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "astratex-ro",
+    "base_url": "astratex.ro",
+    "main_url": "http://www.astratex.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "u-man-ro",
+    "base_url": "u-man.ro",
+    "main_url": "http://www.u-man.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "zonia-ro",
+    "base_url": "zonia.ro",
+    "main_url": "http://www.zonia.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "chic-diva-ro",
+    "base_url": "chic-diva.ro",
+    "main_url": "http://www.chic-diva.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "autohut-ro",
+    "base_url": "autohut.ro",
+    "main_url": "https://www.autohut.ro",
+    "category": "Automotive"
+  },
+  {
+    "slug": "teamdeals-ro",
+    "base_url": "teamdeals.ro",
+    "main_url": "http://teamdeals.ro",
+    "category": "Groupons"
+  },
+  {
+    "slug": "bibloo-ro",
+    "base_url": "bibloo.ro",
+    "main_url": "https://www.bibloo.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "kalapod-net",
+    "base_url": "kalapod.net",
+    "main_url": "http://www.kalapod.net/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "telecredit-ro",
+    "base_url": "telecredit.ro",
+    "main_url": "https://telecredit.ro/",
+    "category": "Financial services"
+  },
+  {
+    "slug": "belher-ro",
+    "base_url": "belher.ro",
+    "main_url": "http://www.belher.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "missgrey-ro",
+    "base_url": "missgrey.ro",
+    "main_url": "http://missgrey.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "rca-ieftin-ro",
+    "base_url": "rca-ieftin.ro",
+    "main_url": "https://www.rca-ieftin.ro",
+    "category": "Insurance"
+  },
+  {
+    "slug": "veltravel-ro",
+    "base_url": "veltravel.ro",
+    "main_url": "https://www.veltravel.ro",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "apiland-ro",
+    "base_url": "apiland.ro",
+    "main_url": "https://apiland.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "otter-ro",
+    "base_url": "otter.ro",
+    "main_url": "http://www.otter.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "evio-ro",
+    "base_url": "evio.ro",
+    "main_url": "http://evio.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "sohodesign-ro-2ea3d36f-6232-4cb8-8ffb-a55aae9ed24f",
+    "base_url": "retroboutique.ro",
+    "main_url": "https://www.retroboutique.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "sleepline-ro",
+    "base_url": "sleepline.ro",
+    "main_url": "https://sleepline.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "soundcreation-ro",
+    "base_url": "soundcreation.ro",
+    "main_url": "http://www.soundcreation.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "books-express-ro",
+    "base_url": "books-express.ro",
+    "main_url": "http://www.books-express.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "interlink-ro",
+    "base_url": "interlink.ro",
+    "main_url": "http://www.interlink.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "kitunghii-ro",
+    "base_url": "kitunghii.ro",
+    "main_url": "https://www.kitunghii.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "cel-ro",
+    "base_url": "cel.ro",
+    "main_url": "http://www.cel.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "watchshop-ro",
+    "base_url": "watchshop.ro",
+    "main_url": "https://www.watchshop.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "babydollfashion-ro",
+    "base_url": "babydollfashion.ro",
+    "main_url": "http://www.babydollfashion.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "bestkids-ro",
+    "base_url": "bestkids.ro",
+    "main_url": "http://www.bestkids.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "petmart-ro",
+    "base_url": "petmart.ro",
+    "main_url": "https://www.petmart.ro/",
+    "category": "Pet supplies"
+  },
+  {
+    "slug": "zenda-ro",
+    "base_url": "zenda.ro",
+    "main_url": "http://www.zenda.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "pensulemachiaj-ro",
+    "base_url": "pensulemachiaj.ro",
+    "main_url": "https://www.pensulemachiaj.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "pentruanimale-ro",
+    "base_url": "pentruanimale.ro",
+    "main_url": "http://www.pentruanimale.ro",
+    "category": "Pet supplies"
+  },
+  {
+    "slug": "esteto-ro",
+    "base_url": "esteto.ro",
+    "main_url": "https://www.esteto.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "alecoair-ro",
+    "base_url": "alecoair.ro",
+    "main_url": "http://alecoair.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "mycloset-ro",
+    "base_url": "mycloset.ro",
+    "main_url": "http://www.mycloset.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "kurtmann-ro",
+    "base_url": "kurtmann.ro",
+    "main_url": "https://kurtmann.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "divisima-com",
+    "base_url": "divisima.com",
+    "main_url": "http://divisima.com/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "top-shop-ro",
+    "base_url": "top-shop.ro",
+    "main_url": "http://www.top-shop.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "drimus-ro",
+    "base_url": "drimus.ro",
+    "main_url": "http://drimus.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "telekom-ro",
+    "base_url": "telekom.ro",
+    "main_url": "https://www.telekom.ro/",
+    "category": "Telecom"
+  },
+  {
+    "slug": "extrasimplu-ro",
+    "base_url": "extrasimplu.ro",
+    "main_url": "https://www.extrasimplu.ro/",
+    "category": "Financial services"
+  },
+  {
+    "slug": "ishoot-ro",
+    "base_url": "ishoot.ro",
+    "main_url": "http://ishoot.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "hervis-ro",
+    "base_url": "hervis.ro",
+    "main_url": "http://www.hervis.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "romstal-ro",
+    "base_url": "romstal.ro",
+    "main_url": "http://www.romstal.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "bigstep-ro",
+    "base_url": "bigstep.ro",
+    "main_url": "http://www.bigstep.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "ookee-ro",
+    "base_url": "ookee.ro",
+    "main_url": "https://www.ookee.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "zappatos-ro",
+    "base_url": "zappatos.ro",
+    "main_url": "http://www.zappatos.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "biciclop-eu",
+    "base_url": "biciclop.eu",
+    "main_url": "http://www.biciclop.eu/",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "chicco-ro",
+    "base_url": "chicco.ro",
+    "main_url": "https://www.chicco.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "cartepedia-ro",
+    "base_url": "cartepedia.ro",
+    "main_url": "http://cartepedia.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "techstar-ro",
+    "base_url": "techstar.ro",
+    "main_url": "https://techstar.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "cartuseria-ro",
+    "base_url": "cartuseria.ro",
+    "main_url": "http://www.cartuseria.ro/",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "itgstore-ro",
+    "base_url": "itgstore.ro",
+    "main_url": "http://www.itgstore.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "auto-soft-ro",
+    "base_url": "auto-soft.ro",
+    "main_url": "http://www.auto-soft.ro",
+    "category": "Automotive"
+  },
+  {
+    "slug": "maxine-ro",
+    "base_url": "maxine.ro",
+    "main_url": "http://maxine.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "badabum-ro",
+    "base_url": "badabum.ro",
+    "main_url": "http://badabum.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "photosetup-ro",
+    "base_url": "photosetup.ro",
+    "main_url": "http://www.photosetup.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "makehot-ro",
+    "base_url": "makehot.ro",
+    "main_url": "http://www.makehot.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "a2t-ro",
+    "base_url": "a2t.ro",
+    "main_url": "http://www.a2t.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "cautceas-ro",
+    "base_url": "cautceas.ro",
+    "main_url": "http://www.cautceas.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "cbexclusive-ro",
+    "base_url": "cbexclusive.ro",
+    "main_url": "http://www.cbexclusive.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "mobilocredit-ro-75990ec7-2c90-4493-ac73-835753c7878b",
+    "base_url": "mobilocredit.ro",
+    "main_url": "https://www.mobilocredit.ro/",
+    "category": "Financial services"
+  },
+  {
+    "slug": "lafemme-ro-fa3a1f87-d976-410f-b590-0d9bc9af14bd",
+    "base_url": "lafemme.ro",
+    "main_url": "http://www.lafemme.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "plantum-ro",
+    "base_url": "plantum.ro",
+    "main_url": "https://plantum.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "magazinul-de-piese-com-bc900273-9064-4d7c-bb23-2b28ebc6dc1f",
+    "base_url": "magazinul-de-piese.com",
+    "main_url": "http://www.magazinul-de-piese.com/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "proalpin-ro",
+    "base_url": "proalpin.ro",
+    "main_url": "https://www.proalpin.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "salamandershop-ro",
+    "base_url": "salamandershop.ro",
+    "main_url": "http://www.salamandershop.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "scauneonline-ro",
+    "base_url": "scauneonline.ro",
+    "main_url": "http://www.scauneonline.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "originals-ro",
+    "base_url": "originals.ro",
+    "main_url": "https://www.originals.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "sportaddict-ro",
+    "base_url": "sportaddict.ro",
+    "main_url": "http://www.sportaddict.ro/",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "iarena-ro",
+    "base_url": "iarena.ro",
+    "main_url": "https://www.iarena.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "bodosport-ro",
+    "base_url": "bodosport.ro",
+    "main_url": "http://www.bodosport.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "bmxmagazin-ro",
+    "base_url": "bmxmagazin.ro",
+    "main_url": "https://www.bmxmagazin.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "okian-ro",
+    "base_url": "okian.ro",
+    "main_url": "http://www.okian.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "case-smart-ro",
+    "base_url": "case-smart.ro",
+    "main_url": "https://www.case-smart.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "bestvalue-eu",
+    "base_url": "bestvalue.eu",
+    "main_url": "http://bestvalue.eu/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "sensodays-ro",
+    "base_url": "sensodays.ro",
+    "main_url": "http://www.sensodays.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "1001cosmetice-ro",
+    "base_url": "1001cosmetice.ro",
+    "main_url": "http://www.1001cosmetice.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "dehaine-ro",
+    "base_url": "dehaine.ro",
+    "main_url": "http://www.dehaine.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "hainedelight-ro",
+    "base_url": "hainedelight.ro",
+    "main_url": "http://hainedelight.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "citgrup-ro",
+    "base_url": "citgrup.ro",
+    "main_url": "http://www.citgrup.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "fashionagenda-ro",
+    "base_url": "fashionagenda.ro",
+    "main_url": "http://www.fashionagenda.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "dasha-ro",
+    "base_url": "dasha.ro",
+    "main_url": "http://www.dasha.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "melimeloparis-ro",
+    "base_url": "melimeloparis.ro",
+    "main_url": "http://melimeloparis.ro",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "mobiladmd-ro",
+    "base_url": "mobiladmd.ro",
+    "main_url": "https://www.mobiladmd.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "decorino-ro",
+    "base_url": "decorino.ro",
+    "main_url": "http://www.decorino.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "itarena-ro",
+    "base_url": "itarena.ro",
+    "main_url": "http://www.itarena.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "performax-ro",
+    "base_url": "performax.ro",
+    "main_url": "https://www.performax.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "sexshop-ro",
+    "base_url": "sexshop.ro",
+    "main_url": "http://www.sexshop.ro",
+    "category": "Adult"
+  },
+  {
+    "slug": "itelmobile-ro",
+    "base_url": "itelmobile.ro",
+    "main_url": "https://www.itelmobile.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "bottegaverde-ro",
+    "base_url": "bottegaverde.ro",
+    "main_url": "https://www.bottegaverde.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "megavolum-com",
+    "base_url": "megavolum.com",
+    "main_url": "https://megavolum.com",
+    "category": "Beauty"
+  },
+  {
+    "slug": "tienda-ro",
+    "base_url": "tienda.ro",
+    "main_url": "http://www.tienda.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "vonmag-ro",
+    "base_url": "vonmag.ro",
+    "main_url": "https://www.vonmag.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "stockholmdiet-com-ie-en-m3-summer-landing",
+    "base_url": "stockholmbody.com",
+    "main_url": "https://www.stockholmbody.com/ie-en/m3/landing?code_id=198563",
+    "category": "Beauty"
+  },
+  {
+    "slug": "km100-ro",
+    "base_url": "km100.ro",
+    "main_url": "https://www.km100.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "defb-ro",
+    "base_url": "defb.ro",
+    "main_url": "http://www.defb.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "libhumanitas-ro",
+    "base_url": "libhumanitas.ro",
+    "main_url": "http://www.libhumanitas.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "rik-ro",
+    "base_url": "rik.ro",
+    "main_url": "https://rik.ro/",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "marionnaud-ro",
+    "base_url": "marionnaud.ro",
+    "main_url": "http://www.marionnaud.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "diamanti-ro",
+    "base_url": "diamanti.ro",
+    "main_url": "http://diamanti.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "readytowear-ro",
+    "base_url": "readytowear.ro",
+    "main_url": "http://www.readytowear.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "ecco-shoes-ro",
+    "base_url": "ecco-shoes.ro",
+    "main_url": "http://www.ecco-shoes.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "dpap-ro",
+    "base_url": "dpap.ro",
+    "main_url": "http://dpap.ro/",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "software-deals-ro",
+    "base_url": "software-deals.ro",
+    "main_url": "http://www.software-deals.ro",
+    "category": "Software"
+  },
+  {
+    "slug": "amafashion-ro",
+    "base_url": "amafashion.ro",
+    "main_url": "http://www.amafashion.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "eventbook-ro",
+    "base_url": "eventbook.ro",
+    "main_url": "https://eventbook.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "cryptocoin-pro",
+    "base_url": "cryptocoin.pro",
+    "main_url": "http://www.cryptocoin.pro",
+    "category": "Financial services"
+  },
+  {
+    "slug": "biashoes-ro",
+    "base_url": "biashoes.ro",
+    "main_url": "http://www.biashoes.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "bioportal-ro",
+    "base_url": "bioportal.ro",
+    "main_url": "http://www.bioportal.ro/",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "2performant-com-32f2ff8f-42fb-4f1f-a9b0-11349c8d223c",
+    "base_url": "2performant.com",
+    "main_url": "http://2performant.com",
+    "category": "Others"
+  },
+  {
+    "slug": "davopro-ro",
+    "base_url": "davopro.ro",
+    "main_url": "http://davopro.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "soldec-shop-ro",
+    "base_url": "soldec-shop.ro",
+    "main_url": "https://www.soldec-shop.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "bebebliss-ro",
+    "base_url": "bebebliss.ro",
+    "main_url": "http://www.bebebliss.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "anvelomag-ro-d3be497e-194e-4c90-b059-5ce6613fe04d",
+    "base_url": "anvelomag.ro",
+    "main_url": "https://anvelomag.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "secundar-ro",
+    "base_url": "secundar.ro",
+    "main_url": "http://www.secundar.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "melkior-ro",
+    "base_url": "melkior.ro",
+    "main_url": "http://www.melkior.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "noriel-ro",
+    "base_url": "noriel.ro",
+    "main_url": "https://www.noriel.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "kettler-ro",
+    "base_url": "kettler.ro",
+    "main_url": "http://www.kettler.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "magazinoutdoor-ro",
+    "base_url": "magazinoutdoor.ro",
+    "main_url": "https://www.magazinoutdoor.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "cerceicopii-ro",
+    "base_url": "cerceicopii.ro",
+    "main_url": "http://www.cerceicopii.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "allpetshop-ro",
+    "base_url": "allpetshop.ro",
+    "main_url": "https://www.allpetshop.ro",
+    "category": "Pet supplies"
+  },
+  {
+    "slug": "urbanbag-ro",
+    "base_url": "urbanbag.ro",
+    "main_url": "http://www.urbanbag.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "nemira-ro",
+    "base_url": "nemira.ro",
+    "main_url": "http://nemira.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "optiblu-ro",
+    "base_url": "optiblu.ro",
+    "main_url": "http://www.optiblu.ro",
+    "category": "Pharma"
+  },
+  {
+    "slug": "bijuterii-eshop-ro",
+    "base_url": "bijuterii-eshop.ro",
+    "main_url": "https://bijuterii-eshop.ro/",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "kampus-ro",
+    "base_url": "kampus.ro",
+    "main_url": "https://www.kampus.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "shop-yellowstore-ro",
+    "base_url": "shop.yellowstore.ro",
+    "main_url": "http://shop.yellowstore.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "biosano-ro-fdf33475-b66f-4d6e-beac-2e58606201c5",
+    "base_url": "biosano.ro",
+    "main_url": "http://www.biosano.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "piatraonline-ro",
+    "base_url": "piatraonline.ro",
+    "main_url": "http://www.piatraonline.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "ferratum-ro",
+    "base_url": "ferratum.ro",
+    "main_url": "https://www.ferratum.ro/?k=2PR&p=cel-mai-rapid-credit-online",
+    "category": "Financial services"
+  },
+  {
+    "slug": "ietraditionala-com",
+    "base_url": "ietraditionala.com",
+    "main_url": "https://www.ietraditionala.com",
+    "category": "Fashion"
+  },
+  {
+    "slug": "floria-ro",
+    "base_url": "floria.ro",
+    "main_url": "http://floria.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "cauciucuridirect-ro",
+    "base_url": "cauciucuridirect.ro",
+    "main_url": "http://www.cauciucuridirect.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "v39-ro",
+    "base_url": "v39.ro",
+    "main_url": "https://v39.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "moze-ro",
+    "base_url": "moze.ro",
+    "main_url": "http://www.moze.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "erotic24-ro",
+    "base_url": "erotic24.ro",
+    "main_url": "http://www.erotic24.ro/",
+    "category": "Adult"
+  },
+  {
+    "slug": "sabon-ro",
+    "base_url": "sabon.ro",
+    "main_url": "https://www.sabon.ro/ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "edituradiana-ro",
+    "base_url": "edituradiana.ro",
+    "main_url": "http://edituradiana.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "animax-ro-eac133e1-8773-49e8-a6c1-4b0806589466",
+    "base_url": "animax.ro",
+    "main_url": "https://animax.ro",
+    "category": "Pet supplies"
+  },
+  {
+    "slug": "vitamix-ro--2",
+    "base_url": "vitamix.ro",
+    "main_url": "http://www.vitamix.ro/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "aer-conditionat-ro",
+    "base_url": "aer-conditionat.ro",
+    "main_url": "https://www.aer-conditionat.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "cocosolis-com-ro",
+    "base_url": "cocosolis.com",
+    "main_url": "https://www.cocosolis.com/ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "maisondor-ro",
+    "base_url": "maisondor.ro",
+    "main_url": "http://www.maisondor.ro",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "gardenpedia-ro",
+    "base_url": "gardenpedia.ro",
+    "main_url": "http://www.gardenpedia.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "haineselect-ro",
+    "base_url": "haineselect.ro",
+    "main_url": "http://www.haineselect.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "benvenuti-ro",
+    "base_url": "benvenuti.ro",
+    "main_url": "https://www.benvenuti.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "brandcircus-ro",
+    "base_url": "brandcircus.ro",
+    "main_url": "http://brandcircus.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "maribonincaltaminte-ro",
+    "base_url": "maribonincaltaminte.ro",
+    "main_url": "https://maribonincaltaminte.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "smartprotection-ro",
+    "base_url": "smartprotection.ro",
+    "main_url": "https://smartprotection.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "montishoes-ro",
+    "base_url": "montishoes.ro",
+    "main_url": "http://montishoes.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "xlentile-ro",
+    "base_url": "xlentile.ro",
+    "main_url": "http://www.xlentile.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "luxuriante-ro",
+    "base_url": "luxuriante.ro",
+    "main_url": "http://www.luxuriante.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "bekid-ro",
+    "base_url": "bekid.ro",
+    "main_url": "https://www.bekid.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "evivo-ro",
+    "base_url": "evivo.ro",
+    "main_url": "http://evivo.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "farmnatur-ro",
+    "base_url": "farmnatur.ro",
+    "main_url": "http://www.farmnatur.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "happymax-ro",
+    "base_url": "happymax.ro",
+    "main_url": "http://www.happymax.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "creditfix-ro",
+    "base_url": "creditfix.ro",
+    "main_url": "https://www.creditfix.ro/",
+    "category": "Financial services"
+  },
+  {
+    "slug": "freewheel-ro",
+    "base_url": "freewheel.ro",
+    "main_url": "http://www.freewheel.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "mustash-ro",
+    "base_url": "mustash.ro",
+    "main_url": "http://www.mustash.ro/",
+    "category": "Others"
+  },
+  {
+    "slug": "lentiamo-ro",
+    "base_url": "lentiamo.ro",
+    "main_url": "http://www.lentiamo.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "stradait-ro",
+    "base_url": "stradait.ro",
+    "main_url": "http://www.stradait.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "ro-newshealth-forskolinactive-com",
+    "base_url": "ro.newshealth.forskolinactive.com",
+    "main_url": "http://ro.newshealth.forskolinactive.com",
+    "category": "Pharma"
+  },
+  {
+    "slug": "roxannes-ro",
+    "base_url": "roxannes.ro",
+    "main_url": "http://roxannes.ro/",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "jiva-ro",
+    "base_url": "jiva.ro",
+    "main_url": "http://www.jiva.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "aimgroup-ro",
+    "base_url": "aimgroup.ro",
+    "main_url": "http://www.aimgroup.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "brasty-ro",
+    "base_url": "brasty.ro",
+    "main_url": "http://www.brasty.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "produsecosmetice-ro",
+    "base_url": "produsecosmetice.ro",
+    "main_url": "http://www.produsecosmetice.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "cleste-ro-a7103a75-3fcf-4439-8c5d-5f8f9ffdbb88",
+    "base_url": "cleste.ro",
+    "main_url": "http://cleste.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "easycredit-ro",
+    "base_url": "easycredit.ro",
+    "main_url": "https://www.easycredit.ro/",
+    "category": "Financial services"
+  },
+  {
+    "slug": "fashionsense-ro",
+    "base_url": "fashionsense.ro",
+    "main_url": "http://fashionsense.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "garkony-shop-ro",
+    "base_url": "garkony-shop.ro",
+    "main_url": "http://garkony-shop.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "photogo-ro",
+    "base_url": "photogo.ro",
+    "main_url": "https://photogo.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "clickbirotica-ro",
+    "base_url": "clickbirotica.ro",
+    "main_url": "http://www.clickbirotica.ro",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "ka-international-ro",
+    "base_url": "ka-international.ro",
+    "main_url": "https://ka-international.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "ejolie-ro",
+    "base_url": "ejolie.ro",
+    "main_url": "https://www.ejolie.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "hiris-ro",
+    "base_url": "hiris.ro",
+    "main_url": "http://www.hiris.ro/",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "miababy-ro",
+    "base_url": "miababy.ro",
+    "main_url": "http://www.miababy.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "parfumuriarabesti-ro",
+    "base_url": "parfumuriarabesti.ro",
+    "main_url": "https://parfumuriarabesti.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "e-pneu-ro-e95418be-3dd0-4e74-9ce3-a3909f510a0a",
+    "base_url": "e-pneu.ro",
+    "main_url": "http://www.e-pneu.ro",
+    "category": "Automotive"
+  },
+  {
+    "slug": "e4home-ro",
+    "base_url": "e4home.ro",
+    "main_url": "https://www.e4home.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "cartusel-ro",
+    "base_url": "cartusel.ro",
+    "main_url": "http://www.cartusel.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "meia-ro",
+    "base_url": "meia.ro",
+    "main_url": "http://www.Meia.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "rangali-ro",
+    "base_url": "rangali.ro",
+    "main_url": "https://www.rangali.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "avmall-ro",
+    "base_url": "avmall.ro",
+    "main_url": "https://www.avmall.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "vivantis-ro",
+    "base_url": "vivantis.ro",
+    "main_url": "https://www.vivantis.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "voglia-ro",
+    "base_url": "voglia.ro",
+    "main_url": "http://www.voglia.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "inbagaj-ro",
+    "base_url": "inbagaj.ro",
+    "main_url": "https://www.inbagaj.ro/",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "germanos-ro",
+    "base_url": "germanos.ro",
+    "main_url": "http://www.germanos.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "various-brands-ro",
+    "base_url": "various-brands.ro",
+    "main_url": "http://www.various-brands.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "ochelarivintage-com",
+    "base_url": "ochelarivintage.com",
+    "main_url": "http://www.ochelarivintage.com",
+    "category": "Fashion"
+  },
+  {
+    "slug": "preturirezonabile-ro",
+    "base_url": "preturirezonabile.ro",
+    "main_url": "https://www.preturirezonabile.ro/",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "oralix-ro",
+    "base_url": "oralix.ro",
+    "main_url": "https://oralix.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "artaceaiului-ro",
+    "base_url": "artaceaiului.ro",
+    "main_url": "http://www.artaceaiului.ro/",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "vopseadehaine-ro-d0244639-6a77-4cbd-ab32-a78f5431d6c1",
+    "base_url": "vopseadehaine.ro",
+    "main_url": "http://www.vopseadehaine.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "rechizitelemele-ro",
+    "base_url": "rechizitelemele.ro",
+    "main_url": "http://www.rechizitelemele.ro/",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "digitalcomputer-ro",
+    "base_url": "digitalcomputer.ro",
+    "main_url": "http://www.digitalcomputer.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "autoboca-ro",
+    "base_url": "autoboca.ro",
+    "main_url": "http://autoboca.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "clubchic-ro",
+    "base_url": "clubchic.ro",
+    "main_url": "http://www.clubchic.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "prickindel-ro",
+    "base_url": "prickindel.ro",
+    "main_url": "http://www.prickindel.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "eyezmaskultra-com",
+    "base_url": "eyezmaskultra.com",
+    "main_url": "http://eyezmaskultra.com/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "lamonza-ro",
+    "base_url": "lamonza.ro",
+    "main_url": "http://www.lamonza.ro/",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "fashionsport-ro",
+    "base_url": "fashionsport.ro",
+    "main_url": "http://fashionsport.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "babyliss-romania-ro",
+    "base_url": "babyliss-romania.ro",
+    "main_url": "https://www.babyliss-romania.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "garciniacambogiaveda-cristinastory-com",
+    "base_url": "garciniacambogiaveda.cristinastory.com",
+    "main_url": "http://garciniacambogiaveda.cristinastory.com/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "sosetaria-ro",
+    "base_url": "sosetaria.ro",
+    "main_url": "http://www.sosetaria.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "acumulator-shop-ro",
+    "base_url": "acumulator-shop.ro",
+    "main_url": "http://www.acumulator-shop.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "ceasmania-ro",
+    "base_url": "ceasmania.ro",
+    "main_url": "http://ceasmania.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "conga-ro",
+    "base_url": "conga.ro",
+    "main_url": "http://www.conga.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "casaidea-ro",
+    "base_url": "casaidea.ro",
+    "main_url": "https://www.casaidea.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "aldoshoes-com-ro",
+    "base_url": "aldoshoes.com.ro",
+    "main_url": "http://www.aldoshoes.com.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "vibratoaredelux-ro--2",
+    "base_url": "vibratoaredelux.ro",
+    "main_url": "http://www.vibratoaredelux.ro/",
+    "category": "Adult"
+  },
+  {
+    "slug": "danielklein-com-ro",
+    "base_url": "danielklein.com.ro",
+    "main_url": "http://www.danielklein.com.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "onore-ro",
+    "base_url": "onore.ro",
+    "main_url": "http://www.onore.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "avstore-ro",
+    "base_url": "avstore.ro",
+    "main_url": "https://www.AVstore.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "facturis-ro",
+    "base_url": "facturis.ro",
+    "main_url": "https://facturis.ro/",
+    "category": "Others"
+  },
+  {
+    "slug": "republicabio-ro--2",
+    "base_url": "republicabio.ro",
+    "main_url": "http://republicabio.ro/",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "best-one-ro",
+    "base_url": "best-one.ro",
+    "main_url": "http://www.best-one.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "sentimente-ro",
+    "base_url": "sentimente.ro",
+    "main_url": "https://www.sentimente.ro",
+    "category": "Dating"
+  },
+  {
+    "slug": "horus-center-ro",
+    "base_url": "horus-center.ro",
+    "main_url": "https://www.horus-center.ro/",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "storefashion-ro",
+    "base_url": "storefashion.ro",
+    "main_url": "https://www.storefashion.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "mamaboutique-ro",
+    "base_url": "mamaboutique.ro",
+    "main_url": "http://www.mamaboutique.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "sanito-ro",
+    "base_url": "sanito.ro",
+    "main_url": "http://www.sanito.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "dacris-net",
+    "base_url": "dacris.net",
+    "main_url": "http://dacris.net/",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "organicindia-ro",
+    "base_url": "organicindia.ro",
+    "main_url": "https://organicindia.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "daedalusonline-eu",
+    "base_url": "daedalusonline.eu",
+    "main_url": "http://www.daedalusonline.eu/rec_ro10/index.php?rec=2parale",
+    "category": "Others"
+  },
+  {
+    "slug": "nicoro-ro",
+    "base_url": "nicoro.ro",
+    "main_url": "http://www.nicoro.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "blanche-porte-ro",
+    "base_url": "blanche-porte.ro",
+    "main_url": "http://www.blanche-porte.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "re-marcabil-ro",
+    "base_url": "re-marcabil.ro",
+    "main_url": "https://re-marcabil.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "slim-swissalchemist-com",
+    "base_url": "slim.swissalchemist.com",
+    "main_url": "http://slim.swissalchemist.com/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "chicville-ro",
+    "base_url": "chicville.ro",
+    "main_url": "http://www.chicville.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "vidia-ro",
+    "base_url": "vidia.ro",
+    "main_url": "http://www.vidia.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "perdele-online-ro",
+    "base_url": "perdele-online.ro",
+    "main_url": "http://www.perdele-online.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "enzobertini-ro",
+    "base_url": "enzobertini.ro",
+    "main_url": "https://www.enzobertini.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "trendland-ro",
+    "base_url": "trendland.ro",
+    "main_url": "https://www.trendland.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "dwyn-ro",
+    "base_url": "dwyn.ro",
+    "main_url": "http://www.dwyn.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "giftology-ro-stiinta-cadourilor-inteligente",
+    "base_url": "giftology.ro",
+    "main_url": "http://www.giftology.ro",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "instastil-ro",
+    "base_url": "instastil.ro",
+    "main_url": "https://www.instastil.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "eurogsm-ro",
+    "base_url": "eurogsm.ro",
+    "main_url": "http://eurogsm.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "chrono12-de",
+    "base_url": "chrono12.de",
+    "main_url": "http://www.chrono12.de/",
+    "category": "Watches"
+  },
+  {
+    "slug": "fashiontribes-ro",
+    "base_url": "fashiontribes.ro",
+    "main_url": "http://www.fashiontribes.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "jucariesimagie-ro",
+    "base_url": "jucariesimagie.ro",
+    "main_url": "http://www.jucariesimagie.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "dualsim-ro",
+    "base_url": "dualsim.ro",
+    "main_url": "http://www.DualSiM.ro",
+    "category": "Telecom"
+  },
+  {
+    "slug": "iconicul-ro",
+    "base_url": "iconicul.ro",
+    "main_url": "https://www.iconicul.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "cheap-energy-org",
+    "base_url": "cheap-energy.org",
+    "main_url": "http://cheap-energy.org",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "farmaciasilva-ro",
+    "base_url": "farmaciasilva.ro",
+    "main_url": "https://www.farmaciasilva.ro",
+    "category": "Pharma"
+  },
+  {
+    "slug": "extractdeplante-ro",
+    "base_url": "extractdeplante.ro",
+    "main_url": "http://www.extractdeplante.ro/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "drlentila-ro",
+    "base_url": "drlentila.ro",
+    "main_url": "http://www.drlentila.ro",
+    "category": "Pharma"
+  },
+  {
+    "slug": "costumecamasi-ro",
+    "base_url": "costumecamasi.ro",
+    "main_url": "http://www.costumecamasi.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "visepufoase-ro",
+    "base_url": "visepufoase.ro",
+    "main_url": "https://www.visepufoase.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "calculator-okasig-ro-7e145fe9-67e2-4d5a-8b46-3f635d9002e5",
+    "base_url": "calculator.okasig.ro",
+    "main_url": "https://calculator.okasig.ro/",
+    "category": "Insurance"
+  },
+  {
+    "slug": "silent-ro",
+    "base_url": "silent.ro",
+    "main_url": "http://www.silent.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "wecontent-ro",
+    "base_url": "wecontent.ro",
+    "main_url": "https://www.wecontent.ro",
+    "category": "Others"
+  },
+  {
+    "slug": "rankine-ro",
+    "base_url": "rankine.ro",
+    "main_url": "http://www.rankine.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "gutuie-ro",
+    "base_url": "gutuie.ro",
+    "main_url": "https://www.gutuie.ro/",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "rohboutique-ro",
+    "base_url": "rohboutique.ro",
+    "main_url": "http://rohboutique.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "oxigentour-ro",
+    "base_url": "oxigentour.ro",
+    "main_url": "https://www.oxigentour.ro/",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "monarchjw-com",
+    "base_url": "monarchjw.com",
+    "main_url": "http://monarchjw.com",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "indirabijoux-ro",
+    "base_url": "indirabijoux.ro",
+    "main_url": "https://www.indirabijoux.ro",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "watch24-ro",
+    "base_url": "watch24.ro",
+    "main_url": "http://www.watch24.ro",
+    "category": "Watches"
+  },
+  {
+    "slug": "outmag-ro",
+    "base_url": "outmag.ro",
+    "main_url": "https://outmag.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "cosmeticskylie-com",
+    "base_url": "cosmeticskylie.com",
+    "main_url": "https://cosmeticskylie.com/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "multipantofi-ro",
+    "base_url": "multipantofi.ro",
+    "main_url": "http://www.multipantofi.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "ideaplaza-ro",
+    "base_url": "ideaplaza.ro",
+    "main_url": "http://www.ideaplaza.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "liveincolors-ro",
+    "base_url": "liveincolors.ro",
+    "main_url": "http://liveincolors.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "parfumexpress-ro",
+    "base_url": "parfumexpress.ro",
+    "main_url": "https://parfumexpress.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "gentlemenscorner-ro",
+    "base_url": "gentlemenscorner.ro",
+    "main_url": "http://www.gentlemenscorner.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "bebershop-ro",
+    "base_url": "bebershop.ro",
+    "main_url": "https://bebershop.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "piatameseriasilor-ro",
+    "base_url": "piatameseriasilor.ro",
+    "main_url": "http://piatameseriasilor.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "hnicosmetice-ro",
+    "base_url": "hnicosmetice.ro",
+    "main_url": "http://hnicosmetice.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "erotica-ro-sex-shop-performant",
+    "base_url": "erotica.ro",
+    "main_url": "http://www.erotica.ro",
+    "category": "Adult"
+  },
+  {
+    "slug": "maderomania-ro",
+    "base_url": "maderomania.ro",
+    "main_url": "http://www.maderomania.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "mahoni-ro-a96cc5dd-1d0d-4208-ab84-7f4684c6fbef",
+    "base_url": "mahoni.ro",
+    "main_url": "https://mahoni.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "flamingocollection-ro",
+    "base_url": "flamingocollection.ro",
+    "main_url": "https://www.flamingocollection.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "trendaffair-ro",
+    "base_url": "trendaffair.ro",
+    "main_url": "http://www.trendaffair.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "cufarulnaturii-ro",
+    "base_url": "cufarulnaturii.ro",
+    "main_url": "http://www.cufarulnaturii.ro/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "savonnerie-ro",
+    "base_url": "savonnerie.ro",
+    "main_url": "http://savonnerie.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "nouriso-ro",
+    "base_url": "nouriso.ro",
+    "main_url": "http://nouriso.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "barbering-ro",
+    "base_url": "barbering.ro",
+    "main_url": "https://www.barbering.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "mydressing-ro",
+    "base_url": "mydressing.ro",
+    "main_url": "http://www.mydressing.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "addien-ro",
+    "base_url": "addien.ro",
+    "main_url": "http://www.addien.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "bookcity-ro",
+    "base_url": "bookcity.ro",
+    "main_url": "http://www.bookcity.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "zumzeria-ro",
+    "base_url": "zumzeria.ro",
+    "main_url": "http://zumzeria.ro",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "popuptextil-ro",
+    "base_url": "popuptextil.ro",
+    "main_url": "https://popuptextil.ro/",
+    "category": "Others"
+  },
+  {
+    "slug": "atumsmart-ro",
+    "base_url": "atumsmart.ro",
+    "main_url": "http://www.atumsmart.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "vissionbuy-ro",
+    "base_url": "vissionbuy.ro",
+    "main_url": "http://vissionbuy.ro",
+    "category": "Groupons"
+  },
+  {
+    "slug": "camaramotului-ro",
+    "base_url": "camaramotului.ro",
+    "main_url": "http://camaramotului.ro/",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "muranos-ro",
+    "base_url": "muranos.ro",
+    "main_url": "http://www.muranos.ro",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "btonic-ro",
+    "base_url": "btonic.ro",
+    "main_url": "https://btonic.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "pantofino-ro",
+    "base_url": "pantofino.ro",
+    "main_url": "https://pantofino.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "follol-com",
+    "base_url": "follol.com",
+    "main_url": "https://www.follol.com/polen-de-pin/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "stickere-net-stickere-decorative-si-tablouri-canvas",
+    "base_url": "stickere.net",
+    "main_url": "http://stickere.net/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "dango-ro",
+    "base_url": "dango.ro",
+    "main_url": "https://www.dango.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "dress24-ro",
+    "base_url": "dress24.ro",
+    "main_url": "http://dress24.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "ejobs",
+    "base_url": "ejobs.ro",
+    "main_url": "https://www.ejobs.ro/",
+    "category": "Jobs"
+  },
+  {
+    "slug": "niculescu-ro",
+    "base_url": "niculescu.ro",
+    "main_url": "http://www.niculescu.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "konvayo-com",
+    "base_url": "konvayo.ro",
+    "main_url": "https://www.konvayo.ro",
+    "category": "Pharma"
+  },
+  {
+    "slug": "open4u-ro",
+    "base_url": "open4u.ro",
+    "main_url": "http://open4u.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "atria-ro",
+    "base_url": "atria.ro",
+    "main_url": "http://www.atria.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "kubex-ro",
+    "base_url": "kubex.ro",
+    "main_url": "https://www.kubex.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "alleop-ro",
+    "base_url": "alleop.ro",
+    "main_url": "http://www.alleop.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "netoptica-ro-61c7ebdb-eadb-4106-a332-e87657f917af",
+    "base_url": "netoptica.ro",
+    "main_url": "https://www.netoptica.ro/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "kdeco-ro",
+    "base_url": "kdeco.ro",
+    "main_url": "https://www.kdeco.ro",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "sportday-ro",
+    "base_url": "sportday.ro",
+    "main_url": "http://www.sportday.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "hosterion-ro",
+    "base_url": "hosterion.ro",
+    "main_url": "https://hosterion.ro",
+    "category": "Telecom"
+  },
+  {
+    "slug": "leafshop-ro",
+    "base_url": "leafshop.ro",
+    "main_url": "https://www.leafshop.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "janette-ro",
+    "base_url": "janette.ro",
+    "main_url": "http://www.janette.ro",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "librariadelfin-ro",
+    "base_url": "librariadelfin.ro",
+    "main_url": "http://www.librariadelfin.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "donaonline-ro",
+    "base_url": "donaonline.ro",
+    "main_url": "http://www.donaonline.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "matiado-ro",
+    "base_url": "matiado.ro",
+    "main_url": "https://matiado.ro/",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "ventum-kids",
+    "base_url": "ventumkids.ro",
+    "main_url": "http://www.ventumkids.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "miculgigant-ro",
+    "base_url": "miculgigant.ro",
+    "main_url": "https://www.miculgigant.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "oaierless-ro",
+    "base_url": "oaierless.ro",
+    "main_url": "https://oaierless.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "vianaturalia-ro",
+    "base_url": "vianaturalia.ro",
+    "main_url": "http://www.vianaturalia.ro/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "revizieshop-ro",
+    "base_url": "revizieshop.ro",
+    "main_url": "http://www.revizieshop.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "sofiline-ro",
+    "base_url": "sofiline.ro",
+    "main_url": "http://www.sofiline.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "pufo-ro",
+    "base_url": "pufo.ro",
+    "main_url": "http://www.pufo.ro",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "we-wood-ro",
+    "base_url": "we-wood.ro",
+    "main_url": "http://www.we-wood.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "mypanasonic-ro",
+    "base_url": "mypanasonic.ro",
+    "main_url": "http://www.mypanasonic.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "bioherb-ro",
+    "base_url": "bioherb.ro",
+    "main_url": "https://www.bioherb.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "charmbra-net",
+    "base_url": "ro.charmbra.net",
+    "main_url": "http://ro.charmbra.net/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "smartdevices-bg",
+    "base_url": "smartdevices.bg",
+    "main_url": "https://smartdevices.bg",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "nectarel-ro",
+    "base_url": "nectarel.ro",
+    "main_url": "https://www.nectarel.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "carnaval24-ro",
+    "base_url": "carnaval24.ro",
+    "main_url": "http://www.carnaval24.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "carlaboutique-ro",
+    "base_url": "carlaboutique.ro",
+    "main_url": "http://www.carlaboutique.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "finzoom-ro",
+    "base_url": "affiliate.finzoom.ro",
+    "main_url": "http://affiliate.finzoom.ro/default.aspx?sp_Currency=32&sp_LoanAmount=5000&sp_LoanTerm=60&sp_LoanType=&sp_AffiliateChannel=16&sp_WidgetId=PredSearch_TopPage&id_=cl-sr-html&u_=2parale&c_=ro-RO",
+    "category": "Financial services"
+  },
+  {
+    "slug": "karine-ro",
+    "base_url": "karine.ro",
+    "main_url": "http://www.karine.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "insha-ro",
+    "base_url": "insha.ro",
+    "main_url": "http://www.insha.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "dermastore-ro",
+    "base_url": "dermastore.ro",
+    "main_url": "http://dermastore.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "biabooks-ro",
+    "base_url": "biabooks.ro",
+    "main_url": "http://BiaBooks.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "calivita-tuningland-ro",
+    "base_url": "calivita.tuningland.ro",
+    "main_url": "http://www.calivita.tuningland.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "326-ro",
+    "base_url": "326.ro",
+    "main_url": "https://www.326.ro",
+    "category": "Dating"
+  },
+  {
+    "slug": "fdrr-ro",
+    "base_url": "fdrr.ro",
+    "main_url": "http://www.fdrr.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "vilaro-ro",
+    "base_url": "vilaro.ro",
+    "main_url": "http://www.vilaro.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "azay-ro",
+    "base_url": "azay.ro",
+    "main_url": "http://azay.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "ecomjobs-ro",
+    "base_url": "ecomjobs.ro",
+    "main_url": "https://www.ecomjobs.ro",
+    "category": "Jobs"
+  },
+  {
+    "slug": "vtamobile-ro",
+    "base_url": "vtamobile.ro",
+    "main_url": "http://vtamobile.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "e-boda-ro",
+    "base_url": "e-boda.ro",
+    "main_url": "http://www.e-boda.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "enginotoys-ro",
+    "base_url": "enginotoys.ro",
+    "main_url": "https://enginotoys.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "bitilini-ro",
+    "base_url": "bitilini.ro",
+    "main_url": "http://www.bitilini.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "regalfashion-ro",
+    "base_url": "regalfashion.ro",
+    "main_url": "http://regalfashion.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "epersonalizari-ro",
+    "base_url": "epersonalizari.ro",
+    "main_url": "https://www.epersonalizari.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "moxo-ro",
+    "base_url": "moxo.ro",
+    "main_url": "http://moxo.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "mallcopii-ro",
+    "base_url": "mallcopii.ro",
+    "main_url": "http://mallcopii.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "getbio-ro",
+    "base_url": "getbio.ro",
+    "main_url": "https://www.getbio.ro/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "giftone-ro",
+    "base_url": "giftone.ro",
+    "main_url": "http://www.giftone.ro",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "regivero-ro",
+    "base_url": "regivero.ro",
+    "main_url": "https://regivero.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "lazy-bag-ro",
+    "base_url": "lazy-bag.ro",
+    "main_url": "http://lazy-bag.ro/",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "bodyshapenutrition-ro-by-mihaela-murgu",
+    "base_url": "bodyshapenutrition.ro",
+    "main_url": "http://bodyshapenutrition.ro/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "tramontina-romania-ro",
+    "base_url": "tramontina-romania.ro",
+    "main_url": "http://www.tramontina-romania.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "cotton-ro",
+    "base_url": "cotton.ro",
+    "main_url": "http://www.cotton.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "merx-ro",
+    "base_url": "merx.ro",
+    "main_url": "http://www.merx.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "vintagetime-ro",
+    "base_url": "vintagetime.ro",
+    "main_url": "http://www.vintagetime.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "storel-ro-marketplace",
+    "base_url": "storel.ro",
+    "main_url": "https://www.storel.ro",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "ludicus-ro",
+    "base_url": "ludicus.ro",
+    "main_url": "http://www.ludicus.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "savelectro-ro",
+    "base_url": "savelectro.ro",
+    "main_url": "https://savelectro.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "abc-zoo-ro",
+    "base_url": "abc-zoo.ro",
+    "main_url": "https://abc-zoo.ro/",
+    "category": "Pet supplies"
+  },
+  {
+    "slug": "cadoulchic-ro",
+    "base_url": "cadoulchic.ro",
+    "main_url": "http://www.cadoulchic.ro",
+    "category": "Watches"
+  },
+  {
+    "slug": "mindblower-ro",
+    "base_url": "mindblower.ro",
+    "main_url": "http://mindblower.ro",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "realfoods-ro",
+    "base_url": "realfoods.ro",
+    "main_url": "http://www.realfoods.ro",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "homephilosophy-ro",
+    "base_url": "homephilosophy.ro",
+    "main_url": "http://www.homephilosophy.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "biodiva-ro",
+    "base_url": "biodiva.ro",
+    "main_url": "http://www.biodiva.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "magdiscountgsm-com",
+    "base_url": "magdiscountgsm.com",
+    "main_url": "http://www.magdiscountgsm.com/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "cosmetice-terapeutice-ro",
+    "base_url": "cosmetice-terapeutice.ro",
+    "main_url": "http://www.cosmetice-terapeutice.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "bijouxmag-ro",
+    "base_url": "bijouxmag.ro",
+    "main_url": "https://bijouxmag.ro/",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "ilexgold-com",
+    "base_url": "ilexgold.com",
+    "main_url": "http://www.ilexgold.com",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "magoland-ro",
+    "base_url": "magoland.ro",
+    "main_url": "http://magoland.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "ijoo-ro",
+    "base_url": "ijoo.ro",
+    "main_url": "http://www.ijoo.ro/",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "fares-ro",
+    "base_url": "fares.ro",
+    "main_url": "https://www.fares.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "tudor-tailor-com",
+    "base_url": "tudor-tailor.com",
+    "main_url": "http://www.tudor-tailor.com",
+    "category": "Fashion"
+  },
+  {
+    "slug": "planturia-ro",
+    "base_url": "planturia.ro",
+    "main_url": "http://www.planturia.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "biorita-ro",
+    "base_url": "biorita.ro",
+    "main_url": "https://www.biorita.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "autoechipat-ro",
+    "base_url": "autoechipat.ro",
+    "main_url": "http://www.autoechipat.ro",
+    "category": "Automotive"
+  },
+  {
+    "slug": "uak-ro",
+    "base_url": "uak.ro",
+    "main_url": "http://www.uak.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "loveisland-ro",
+    "base_url": "loveisland.ro",
+    "main_url": "http://www.loveisland.ro",
+    "category": "Adult"
+  },
+  {
+    "slug": "miledy-ro-c6983144-92a5-4a3d-ab39-733cd10bc393",
+    "base_url": "miledy.ro",
+    "main_url": "http://www.miledy.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "book-house-ro-3abff2f6-9c37-49a3-9b3b-ceaa651dfa72",
+    "base_url": "book-house.ro",
+    "main_url": "https://www.book-house.ro",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "naturafresh-ro",
+    "base_url": "naturafresh.ro",
+    "main_url": "https://www.naturafresh.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "cadouri-inedite-ro",
+    "base_url": "cadouri-inedite.ro",
+    "main_url": "https://www.cadouri-inedite.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "produsedingospodarie-ro",
+    "base_url": "produsedingospodarie.ro",
+    "main_url": "https://produsedingospodarie.ro",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "zuzububu-ro",
+    "base_url": "zuzububu.ro",
+    "main_url": "https://www.zuzububu.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "tratamente-lemn-ro",
+    "base_url": "tratamente-lemn.ro",
+    "main_url": "http://www.tratamente-lemn.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "biro-ro",
+    "base_url": "biro.ro",
+    "main_url": "http://www.biro.ro",
+    "category": "Watches"
+  },
+  {
+    "slug": "jucarie-ro",
+    "base_url": "jucarie.ro",
+    "main_url": "http://www.jucarie.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "mylash-ro-2c77f082-f5cd-44d8-bb12-486664af24e2",
+    "base_url": "mylash.ro",
+    "main_url": "https://www.mylash.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "hainesport-net",
+    "base_url": "hainesport.net",
+    "main_url": "http://www.hainesport.net",
+    "category": "Fashion"
+  },
+  {
+    "slug": "campeio-ro",
+    "base_url": "campeio.ro",
+    "main_url": "http://www.campeio.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "chingiexpert-ro",
+    "base_url": "chingiexpert.ro",
+    "main_url": "http://www.chingiexpert.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "etelefon-ro",
+    "base_url": "etelefon.ro",
+    "main_url": "https://www.etelefon.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "corturile-ro",
+    "base_url": "corturile.ro",
+    "main_url": "http://www.corturile.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "tableta-android-ro",
+    "base_url": "tableta-android.ro",
+    "main_url": "http://www.tableta-android.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "pcmadd-com",
+    "base_url": "pcmadd.com",
+    "main_url": "http://pcmadd.com/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "mineralium-ro",
+    "base_url": "mineralium.ro",
+    "main_url": "http://mineralium.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "cadouri-usb-usbmania",
+    "base_url": "usbmania.ro",
+    "main_url": "http://www.usbmania.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "salveazaoinima-ro",
+    "base_url": "salveazaoinima.ro",
+    "main_url": "http://www.salveazaoinima.ro/",
+    "category": "Humanitarian"
+  },
+  {
+    "slug": "biospot-ro",
+    "base_url": "biospot.ro",
+    "main_url": "https://biospot.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "litera-ro",
+    "base_url": "litera.ro",
+    "main_url": "http://www.litera.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "noudinnou-ro",
+    "base_url": "noudinnou.ro",
+    "main_url": "http://noudinnou.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "toyz-ro",
+    "base_url": "toyz.ro",
+    "main_url": "http://www.toyz.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "materialedidactice-ro",
+    "base_url": "materialedidactice.ro",
+    "main_url": "https://materialedidactice.ro/",
+    "category": "Learning"
+  },
+  {
+    "slug": "campanie-2-worldvision-ro",
+    "base_url": "worldvision.ro",
+    "main_url": "http://www.worldvision.ro/2lasuta",
+    "category": "Humanitarian"
+  },
+  {
+    "slug": "bforyou-ro",
+    "base_url": "bforyou.ro",
+    "main_url": "http://www.bforyou.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "activitati-cadou-ro",
+    "base_url": "activitati-cadou.ro",
+    "main_url": "http://www.activitati-cadou.ro/",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "piticlic-ro",
+    "base_url": "piticlic.ro",
+    "main_url": "http://www.piticlic.ro/ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "eden-lingerie-ro",
+    "base_url": "eden-lingerie.ro",
+    "main_url": "http://eden-lingerie.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "magiaculorilor-ro",
+    "base_url": "magiaculorilor.ro",
+    "main_url": "http://magiaculorilor.ro/",
+    "category": "Watches"
+  },
+  {
+    "slug": "exestore-ro",
+    "base_url": "exestore.ro",
+    "main_url": "http://exestore.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "wlx-ro",
+    "base_url": "wlx.ro",
+    "main_url": "http://wlx.ro/",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "cutiuta-cu-povesti-ro",
+    "base_url": "cutiuta-cu-povesti.ro",
+    "main_url": "http://www.cutiuta-cu-povesti.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "edituratrei-ro",
+    "base_url": "edituratrei.ro",
+    "main_url": "http://www.edituratrei.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "minimecraft-ro",
+    "base_url": "minimecraft.ro",
+    "main_url": "http://www.minimecraft.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "pineberry-ro",
+    "base_url": "pineberry.ro",
+    "main_url": "http://www.pineberry.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "donpapillon-com",
+    "base_url": "donpapillon.com",
+    "main_url": "http://www.donpapillon.com/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "jucariideconstruit-ro",
+    "base_url": "jucariideconstruit.ro",
+    "main_url": "http://www.jucariideconstruit.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "editura-foryou-ro",
+    "base_url": "editura-foryou.ro",
+    "main_url": "http://www.editura-foryou.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "prosuccesstraining-ro",
+    "base_url": "prosuccesstraining.ro",
+    "main_url": "http://www.prosuccesstraining.ro/",
+    "category": "Learning"
+  },
+  {
+    "slug": "rubyfashion-ro",
+    "base_url": "rubyfashion.ro",
+    "main_url": "https://rubyfashion.ro/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "cosmetiq-ro",
+    "base_url": "cosmetiq.ro",
+    "main_url": "http://www.cosmetiq.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "pieseautoscan-ro",
+    "base_url": "pieseautoscan.ro",
+    "main_url": "https://pieseautoscan.ro/",
+    "category": "Automotive"
+  },
+  {
+    "slug": "avatex",
+    "base_url": "magazinonline.avatex.ro",
+    "main_url": "http://magazinonline.avatex.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "molly-dress-com",
+    "base_url": "molly-dress.com",
+    "main_url": "https://molly-dress.com/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "arsis-ro",
+    "base_url": "arsis.ro",
+    "main_url": "http://www.arsis.ro/",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "ro-delfinshopping-eu",
+    "base_url": "ro.delfinshopping.eu",
+    "main_url": "https://ro.delfinshopping.eu/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "reduceriturism-ro",
+    "base_url": "reduceriturism.ro",
+    "main_url": "http://www.reduceriturism.ro",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "ciel-ro",
+    "base_url": "ciel.ro",
+    "main_url": "http://www.ciel.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "daruriautentice-ro",
+    "base_url": "daruriautentice.ro",
+    "main_url": "https://daruriautentice.ro",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "ozdenta-com",
+    "base_url": "ozdenta.com",
+    "main_url": "https://www.ozdenta.com",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "airsoft6-ro",
+    "base_url": "airsoft6.ro",
+    "main_url": "http://www.airsoft6.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "ofertadesezon-ro-auto",
+    "base_url": "ofertadesezon.ro",
+    "main_url": "http://ofertadesezon.ro/auto",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "gianni-shoes-com-ro",
+    "base_url": "gianni-shoes.com",
+    "main_url": "http://www.gianni-shoes.com/ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "gardenium-ro",
+    "base_url": "gardenium.ro",
+    "main_url": "http://www.gardenium.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "shop-missbaker-ro",
+    "base_url": "shop.missbaker.ro",
+    "main_url": "http://shop.missbaker.ro",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "megasonexromania-ro",
+    "base_url": "megasonexromania.ro",
+    "main_url": "http://megasonexromania.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "ro-healthbrief-mezodermaline-com",
+    "base_url": "ro.healthbrief.mezodermaline.com",
+    "main_url": "http://ro.healthbrief.mezodermaline.com",
+    "category": "Beauty"
+  },
+  {
+    "slug": "bestdealz-ro",
+    "base_url": "bestdealz.ro",
+    "main_url": "https://www.bestdealz.ro",
+    "category": "Groupons"
+  },
+  {
+    "slug": "bijuteriastil-ro",
+    "base_url": "bijuteriastil.ro",
+    "main_url": "https://www.bijuteriastil.ro/",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "bike-ski-ro",
+    "base_url": "bike-ski.ro",
+    "main_url": "http://www.bike-ski.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "meisterh-ro",
+    "base_url": "meisterh.ro",
+    "main_url": "http://www.meisterh.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "itstoc-ro",
+    "base_url": "itstoc.ro",
+    "main_url": "https://www.itstoc.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "gradinarul-gospodar-ro",
+    "base_url": "gradinarul-gospodar.ro",
+    "main_url": "https://gradinarul-gospodar.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "naturway-ro",
+    "base_url": "naturway.ro",
+    "main_url": "http://www.naturway.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "laami-ro",
+    "base_url": "laami.ro",
+    "main_url": "http://www.laami.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "cyclope-ro",
+    "base_url": "cyclope.ro",
+    "main_url": "https://cyclope.ro/software-monitorizare-angajati-testeaza-gratuit/",
+    "category": "Software"
+  },
+  {
+    "slug": "ubita-ro",
+    "base_url": "ubita.ro",
+    "main_url": "http://ubita.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "bestbuytravel-ro",
+    "base_url": "bestbuytravel.ro",
+    "main_url": "https://www.bestbuytravel.ro",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "sticky-art-ro",
+    "base_url": "sticky-art.ro",
+    "main_url": "https://www.sticky-art.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "ro-garcinia-diet-trends-us",
+    "base_url": "ro.garcinia.diet-trends.us",
+    "main_url": "http://ro.garcinia.diet-trends.us",
+    "category": "Pharma"
+  },
+  {
+    "slug": "genetx-eu",
+    "base_url": "genetx.eu",
+    "main_url": "https://www.genetx.eu",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "ouimehnon-com",
+    "base_url": "ouimehnon.com",
+    "main_url": "http://www.ouimehnon.com",
+    "category": "Fashion"
+  },
+  {
+    "slug": "internazionalitalia-eu-shop",
+    "base_url": "internazionalitalia.eu",
+    "main_url": "http://www.internazionalitalia.eu/shop/",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "eonflash-ro",
+    "base_url": "eonflash.ro",
+    "main_url": "http://www.eonflash.ro",
+    "category": "Others"
+  },
+  {
+    "slug": "retro-concurs-ro",
+    "base_url": "retro-concurs.ro",
+    "main_url": "https://retro-concurs.ro",
+    "category": "Automotive"
+  },
+  {
+    "slug": "dab-it-ro",
+    "base_url": "dab-it.ro",
+    "main_url": "http://www.dab-it.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "ionic-beautytouch-info",
+    "base_url": "ionic.beautytouch.info",
+    "main_url": "http://ionic.beautytouch.info",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "power-technoweek-info",
+    "base_url": "power.technoweek.info",
+    "main_url": "http://power.technoweek.info",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "fiscalonline-ro",
+    "base_url": "fiscalonline.ro",
+    "main_url": "https://www.fiscalonline.ro",
+    "category": "Financial services"
+  },
+  {
+    "slug": "storebrands-ro",
+    "base_url": "storebrands.ro",
+    "main_url": "http://storebrands.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "vinere-ro",
+    "base_url": "vinere.ro",
+    "main_url": "https://www.vinere.ro",
+    "category": "Others"
+  },
+  {
+    "slug": "complice-ro",
+    "base_url": "complice.ro",
+    "main_url": "http://www.complice.ro",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "saltele-pat-ro",
+    "base_url": "saltele-pat.ro",
+    "main_url": "http://www.saltele-pat.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "curs-titiaur-ro",
+    "base_url": "curs.titiaur.ro",
+    "main_url": "https://curs.titiaur.ro/",
+    "category": "Learning"
+  },
+  {
+    "slug": "roxi-ro-instrumente-de-scris",
+    "base_url": "roxi.ro",
+    "main_url": "http://www.roxi.ro",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "vicii-net",
+    "base_url": "vicii.net",
+    "main_url": "http://www.vicii.net",
+    "category": "Hypermarket & Groceries"
+  },
+  {
+    "slug": "abonamentesali-ro",
+    "base_url": "abonamentesali.ro",
+    "main_url": "https://www.abonamentesali.ro",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "pantofi-de-vicov-ro",
+    "base_url": "pantofi-de-vicov.ro",
+    "main_url": "https://www.pantofi-de-vicov.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "felicis-ro",
+    "base_url": "felicis.ro",
+    "main_url": "http://www.felicis.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "oap-ro",
+    "base_url": "oap.ro",
+    "main_url": "http://oap.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "karinaochis-com",
+    "base_url": "karinaochis.com",
+    "main_url": "http://www.karinaochis.com",
+    "category": "Office supplies"
+  },
+  {
+    "slug": "fnord23-com",
+    "base_url": "fnord23.com",
+    "main_url": "http://www.fnord23.com",
+    "category": "Fashion"
+  },
+  {
+    "slug": "lovebuz-ro-e1eefc29-a608-44dc-896c-b8c92a76bed0",
+    "base_url": "lovebuz.ro",
+    "main_url": "https://www.lovebuz.ro",
+    "category": "Adult"
+  },
+  {
+    "slug": "goldensite-ro-b1419eb8-da02-4a1a-9579-7b4b178e708d",
+    "base_url": "goldensite.ro",
+    "main_url": "https://goldensite.ro/magazin",
+    "category": "Learning"
+  },
+  {
+    "slug": "sohodesign-ro",
+    "base_url": "sohodesign.ro",
+    "main_url": "https://sohodesign.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "johnsonfitness-ro",
+    "base_url": "johnsonfitness.ro",
+    "main_url": "http://johnsonfitness.ro/",
+    "category": "Sports & outdoors"
+  },
+  {
+    "slug": "thehappytoe-ro",
+    "base_url": "thehappytoe.ro",
+    "main_url": "https://www.thehappytoe.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "somato-ro",
+    "base_url": "somato.ro",
+    "main_url": "https://somato.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "pebamag-ro",
+    "base_url": "pebamag.ro",
+    "main_url": "http://pebamag.ro",
+    "category": "Watches"
+  },
+  {
+    "slug": "flavours-friends-com",
+    "base_url": "flavours-friends.com",
+    "main_url": "https://flavours-friends.com/",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "bebeluc-ro",
+    "base_url": "bebeluc.ro",
+    "main_url": "http://www.bebeluc.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "paxx-ro",
+    "base_url": "paxx.ro",
+    "main_url": "http://www.paxx.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "baby24-ro",
+    "base_url": "baby24.ro",
+    "main_url": "http://www.baby24.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "premiumtoys-ro",
+    "base_url": "premiumtoys.ro",
+    "main_url": "http://www.premiumtoys.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "shuttleplanet-com",
+    "base_url": "shuttleplanet.com",
+    "main_url": "https://www.shuttleplanet.com",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "promotie-barlinek-ro",
+    "base_url": "promotie.barlinek.ro",
+    "main_url": "http://promotie.barlinek.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "familyflexx-ro",
+    "base_url": "familyflexx.ro",
+    "main_url": "http://www.familyflexx.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "emultimag-ro",
+    "base_url": "emultimag.ro",
+    "main_url": "http://www.emultimag.ro",
+    "category": "Watches"
+  },
+  {
+    "slug": "detox-swissalchemist-com",
+    "base_url": "detox.swissalchemist.com",
+    "main_url": "http://detox.swissalchemist.com/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "fitolife-swissalchemist-com",
+    "base_url": "fitolife.swissalchemist.com",
+    "main_url": "http://fitolife.swissalchemist.com/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "protent-doctor-swiss-com",
+    "base_url": "protent.doctor-swiss.com",
+    "main_url": "http://protent.doctor-swiss.com/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "saltele-ekon-ro",
+    "base_url": "saltele-ekon.ro",
+    "main_url": "http://saltele-ekon.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "evertoys-ro",
+    "base_url": "evertoys.ro",
+    "main_url": "https://www.evertoys.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "oferte-top-eu",
+    "base_url": "oferte-top.eu",
+    "main_url": "https://oferte-top.eu",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "nutribulet-eu-index3-php",
+    "base_url": "nutribulet.eu",
+    "main_url": "https://www.nutribulet.eu/index3.php",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "robinetelectric-eu",
+    "base_url": "robinetelectric.eu",
+    "main_url": "http://robinetelectric.eu/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "six-pad-eu",
+    "base_url": "six-pad.eu",
+    "main_url": "http://www.six-pad.eu/",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "powerbrush-eu",
+    "base_url": "powerbrush.eu",
+    "main_url": "http://powerbrush.eu/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "oncoforte-ro-aab4d34e-d6e0-4472-8c08-43d1f6be68b5",
+    "base_url": "oncoforte.ro",
+    "main_url": "http://www.oncoforte.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "sculeexpert-ro",
+    "base_url": "sculeexpert.ro",
+    "main_url": "http://www.sculeexpert.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "holyfashion-eu",
+    "base_url": "holyfashion.eu",
+    "main_url": "http://www.holyfashion.eu/",
+    "category": "Fashion"
+  },
+  {
+    "slug": "shop-adrienmarazzi-ro",
+    "base_url": "shop.adrienmarazzi.ro",
+    "main_url": "http://shop.adrienmarazzi.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "levol-ro",
+    "base_url": "levol.ro",
+    "main_url": "https://www.levol.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "zonic-ro",
+    "base_url": "zonic.ro",
+    "main_url": "https://www.zonic.ro",
+    "category": "Electronics IT&C"
+  },
+  {
+    "slug": "pantof-io",
+    "base_url": "pantof.io",
+    "main_url": "https://pantof.io",
+    "category": "Fashion"
+  },
+  {
+    "slug": "viaconto-ro",
+    "base_url": "viaconto.ro",
+    "main_url": "https://www.viaconto.ro",
+    "category": "Financial services"
+  },
+  {
+    "slug": "saccio-ro",
+    "base_url": "saccio.ro",
+    "main_url": "http://saccio.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "mega-mall-co-uk",
+    "base_url": "mega-mall.co.uk",
+    "main_url": "https://mega-mall.co.uk",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "wellnessist-ro",
+    "base_url": "wellnessist.ro",
+    "main_url": "http://wellnessist.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "fotocolaj-com",
+    "base_url": "fotocolaj.com",
+    "main_url": "http://fotocolaj.com/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "fashion-fit-ro",
+    "base_url": "fashion-fit.ro",
+    "main_url": "http://www.fashion-fit.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "dinpovesti-ro",
+    "base_url": "dinpovesti.ro",
+    "main_url": "https://www.dinpovesti.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "produsedeslabire-ro",
+    "base_url": "produsedeslabire.ro",
+    "main_url": "http://produsedeslabire.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "copilascochet-ro",
+    "base_url": "copilascochet.ro",
+    "main_url": "https://www.copilascochet.ro/",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "zenartdeco-com",
+    "base_url": "zenartdeco.com",
+    "main_url": "https://www.zenartdeco.com",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "giving-ro",
+    "base_url": "giving.ro",
+    "main_url": "https://www.giving.ro/",
+    "category": "Books Movies & Music"
+  },
+  {
+    "slug": "parfumland-ro",
+    "base_url": "parfumland.ro",
+    "main_url": "https://parfumland.ro/",
+    "category": "Beauty"
+  },
+  {
+    "slug": "avanishades-com",
+    "base_url": "avanishades.com",
+    "main_url": "https://www.avanishades.com/",
+    "category": "Others"
+  },
+  {
+    "slug": "soft-step-ro",
+    "base_url": "soft-step.ro",
+    "main_url": "https://www.soft-step.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "retinolcomplex-ro-magazin",
+    "base_url": "retinolcomplex.ro",
+    "main_url": "https://retinolcomplex.ro/magazin",
+    "category": "Beauty"
+  },
+  {
+    "slug": "bricospot-ro",
+    "base_url": "bricospot.ro",
+    "main_url": "http://www.bricospot.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "iuba-ro",
+    "base_url": "iuba.ro",
+    "main_url": "https://iuba.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "crockpot-romania-ro",
+    "base_url": "crockpot-romania.ro",
+    "main_url": "https://www.crockpot-romania.ro/",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "dermifusion-ro",
+    "base_url": "dermifusion.ro",
+    "main_url": "https://dermifusion.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "iaujucarii-ro",
+    "base_url": "iaujucarii.ro",
+    "main_url": "https://iaujucarii.ro",
+    "category": "Babies Kids & Toys"
+  },
+  {
+    "slug": "ollivander-ro",
+    "base_url": "ollivander.ro",
+    "main_url": "http://ollivander.ro",
+    "category": "Online Mall"
+  },
+  {
+    "slug": "o9vacanta-ro",
+    "base_url": "o9vacanta.ro",
+    "main_url": "http://www.o9vacanta.ro",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "optilumiere-ro",
+    "base_url": "optilumiere.ro",
+    "main_url": "https://optilumiere.ro/",
+    "category": "Pharma"
+  },
+  {
+    "slug": "okflora-ro",
+    "base_url": "okflora.ro",
+    "main_url": "http://okflora.ro/",
+    "category": "Gifts & Flowers"
+  },
+  {
+    "slug": "trolere-titan-ro",
+    "base_url": "trolere-titan.ro",
+    "main_url": "http://www.trolere-titan.ro/",
+    "category": "Travel & Tourism"
+  },
+  {
+    "slug": "topwatch-ro-793dc3c6-3e81-49fc-a1ad-5e857c49714d",
+    "base_url": "topwatch.ro",
+    "main_url": "http://www.topwatch.ro",
+    "category": "Jewelry"
+  },
+  {
+    "slug": "weddingmastery-ro",
+    "base_url": "weddingmastery.ro",
+    "main_url": "https://www.weddingmastery.ro",
+    "category": "Learning"
+  },
+  {
+    "slug": "globalhubb-ro",
+    "base_url": "globalhubb.ro",
+    "main_url": "https://globalhubb.ro",
+    "category": "Others"
+  },
+  {
+    "slug": "nr9shop-tk-1b331127-f76c-4a69-889e-3f8e7f69c836",
+    "base_url": "nr9shop.tk",
+    "main_url": "https://www.nr9shop.tk",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "medisonica-ro",
+    "base_url": "medisonica.ro",
+    "main_url": "http://www.medisonica.ro",
+    "category": "Health & Personal care"
+  },
+  {
+    "slug": "spectral-ro",
+    "base_url": "spectral.ro",
+    "main_url": "https://www.spectral.ro",
+    "category": "Home & Garden"
+  },
+  {
+    "slug": "avaddor-com",
+    "base_url": "avaddor.com",
+    "main_url": "https://avaddor.com",
+    "category": "Fashion"
+  },
+  {
+    "slug": "parfumss-ro",
+    "base_url": "parfumss.ro",
+    "main_url": "http://www.parfumss.ro",
+    "category": "Beauty"
+  },
+  {
+    "slug": "magazinzebra-ro",
+    "base_url": "magazinzebra.ro",
+    "main_url": "http://magazinzebra.ro",
+    "category": "Fashion"
+  },
+  {
+    "slug": "zoom-fashion-net",
+    "base_url": "zoom-fashion.net",
+    "main_url": "http://www.zoom-fashion.net",
+    "category": "Fashion"
+  },
+  {
+    "slug": "karla-fashion-10ae7352-e193-46c3-a53c-d51d982337a2",
+    "base_url": "karla.fashion",
+    "main_url": "https://karla.fashion",
+    "category": "Fashion"
+  },
+  {
+    "slug": "gave-ro-7474a1cd-5ebd-4ad9-b2b7-4b98b44436d1",
+    "base_url": "gave.ro",
+    "main_url": "http://www.gave.ro",
+    "category": "Electronics IT&C"
+  }
+]
