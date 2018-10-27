@@ -1,8 +1,12 @@
 # Auto eCOMM TestBot
 
+![Logo](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/logo.png)
+
 ## The goal
 
 Our goal is to develop and train an automated user experience TestBot that is able to predict the satisfaction of an user navigating an ecommerce mobile website.
+
+Meet RuxiBot your trusted e-commerce advisor that helps you rate user experience & interfaces by learning from your clients.
 
 ## Approach
 
@@ -11,6 +15,16 @@ We are designing a survey to collect output data regarding user experience and s
 Audience we are targeting with the product is comprised of shop owners, development companies and individual developers aiming to improve their website.
 
 ## Data
+
+### Inputs
+
+* Lighthouse audits on website performace
+* CSS Stats
+
+### Outputs
+
+* Percived website performance
+* Website aspect evaluation
 
 ## Results
 
