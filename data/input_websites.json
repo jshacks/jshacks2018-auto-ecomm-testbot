@@ -222,12 +222,6 @@
     "category": "Fashion"
   },
   {
-    "slug": "chic-diva-ro",
-    "base_url": "chic-diva.ro",
-    "main_url": "http://www.chic-diva.ro",
-    "category": "Fashion"
-  },
-  {
     "slug": "autohut-ro",
     "base_url": "autohut.ro",
     "main_url": "https://www.autohut.ro",
@@ -364,12 +358,6 @@
     "base_url": "petmart.ro",
     "main_url": "https://www.petmart.ro/",
     "category": "Pet supplies"
-  },
-  {
-    "slug": "zenda-ro",
-    "base_url": "zenda.ro",
-    "main_url": "http://www.zenda.ro/",
-    "category": "Fashion"
   },
   {
     "slug": "pensulemachiaj-ro",
@@ -886,12 +874,6 @@
     "base_url": "secundar.ro",
     "main_url": "http://www.secundar.ro/",
     "category": "Watches"
-  },
-  {
-    "slug": "melkior-ro",
-    "base_url": "melkior.ro",
-    "main_url": "http://www.melkior.ro/",
-    "category": "Beauty"
   },
   {
     "slug": "noriel-ro",
@@ -2724,12 +2706,6 @@
     "category": "Electronics IT&C"
   },
   {
-    "slug": "ro-delfinshopping-eu",
-    "base_url": "ro.delfinshopping.eu",
-    "main_url": "https://ro.delfinshopping.eu/",
-    "category": "Home & Garden"
-  },
-  {
     "slug": "reduceriturism-ro",
     "base_url": "reduceriturism.ro",
     "main_url": "http://www.reduceriturism.ro",
@@ -2742,12 +2718,6 @@
     "category": "Electronics IT&C"
   },
   {
-    "slug": "daruriautentice-ro",
-    "base_url": "daruriautentice.ro",
-    "main_url": "https://daruriautentice.ro",
-    "category": "Gifts & Flowers"
-  },
-  {
     "slug": "ozdenta-com",
     "base_url": "ozdenta.com",
     "main_url": "https://www.ozdenta.com",
@@ -2758,18 +2728,6 @@
     "base_url": "airsoft6.ro",
     "main_url": "http://www.airsoft6.ro",
     "category": "Sports & outdoors"
-  },
-  {
-    "slug": "ofertadesezon-ro-auto",
-    "base_url": "ofertadesezon.ro",
-    "main_url": "http://ofertadesezon.ro/auto",
-    "category": "Online Mall"
-  },
-  {
-    "slug": "gianni-shoes-com-ro",
-    "base_url": "gianni-shoes.com",
-    "main_url": "http://www.gianni-shoes.com/ro",
-    "category": "Fashion"
   },
   {
     "slug": "gardenium-ro",
@@ -3334,12 +3292,6 @@
     "base_url": "o9vacanta.ro",
     "main_url": "http://www.o9vacanta.ro",
     "category": "Travel & Tourism"
-  },
-  {
-    "slug": "optilumiere-ro",
-    "base_url": "optilumiere.ro",
-    "main_url": "https://optilumiere.ro/",
-    "category": "Pharma"
   },
   {
     "slug": "okflora-ro",
