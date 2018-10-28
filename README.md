@@ -55,7 +55,8 @@ Audience we are targeting with the product is comprised of shop owners, developm
 #### Interface rating
 ![User intent](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/005-interface.png)
 
-### Audits
+### Results
+![Result](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/006-result.png)
 
 
 
