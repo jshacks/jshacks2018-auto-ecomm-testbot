@@ -9,7 +9,7 @@ const websites = require('./../data/input_websites');
 
 chromeLauncher.launch({chromeFlags: ['--headless']}).then(chrome => {
   let promises = [];
-  for (const website of websites.splice(0, 1)) {
+  for (const website of websites.splice(0, 10)) {
     let promise = new Promise((resolve, reject) => {
       Promise.all([
         lighthouse(website.slug, website.main_url, chrome),
@@ -20,6 +20,8 @@ chromeLauncher.launch({chromeFlags: ['--headless']}).then(chrome => {
           lighthouse: results[0],
           css       : results[1],
         });
+      }).catch(error => {
+        reject(error);
       });
     });
     
@@ -33,6 +35,9 @@ chromeLauncher.launch({chromeFlags: ['--headless']}).then(chrome => {
     }
   }).then(() => {
     chrome.kill();
+    console.log('--> Done!');
     return;
+  }).catch(error => {
+    console.error(error);
   });
 });
