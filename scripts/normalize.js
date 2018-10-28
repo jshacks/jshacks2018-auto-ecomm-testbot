@@ -25,18 +25,18 @@ for (const website of websites) {
     new Decimal(_.get(lighthouseMetrics, '.categories[\'seo\'].score') || 0).mul(100).toNumber(),
   ];
   const uiMetrics = [
-      new Decimal(_.get(cssMetrics, 'uniqueColor') || 0).floor().toNumber(),
-      new Decimal(_.get(cssMetrics, 'backgroundColor') || 0).floor().toNumber(),
-      new Decimal(_.get(cssMetrics, 'fontSize') || 0).floor().toNumber(),
-      new Decimal(_.get(cssMetrics, 'fontFamily') || 0).floor().toNumber(),
-      new Decimal(_.get(cssMetrics, 'padding') || 0).floor().toNumber(),
+      new Decimal(_.get(cssMetrics, 'uniqueColor') || 0).div(100).toNumber(),
+      new Decimal(_.get(cssMetrics, 'backgroundColor') || 0).div(100).toNumber(),
+      new Decimal(_.get(cssMetrics, 'fontSize') || 0).div(100).toNumber(),
+      new Decimal(_.get(cssMetrics, 'fontFamily') || 0).div(100).toNumber(),
+      new Decimal(_.get(cssMetrics, 'padding') || 0).div(100).toNumber(),
   ];
 
   // generate mock data
   const header = fs.readFileSync(path.resolve(userData), 'utf8').split('\n')[0];
 
   fs.writeFileSync(mockData, header);
-  for (let i = 0; i < Math.floor(Math.random() * (10 - 1)) + 1; i++) {
+  for (let i = 0; i < Math.floor(Math.random() * (500000 - 250000)) + 1; i++) {
     const perfValue = new Decimal(performanceMetrics.reduce((acc, val) => new Decimal(acc).add(val).toNumber(), 0)).floor().div(100).ceil().toNumber();
     const uiValue = new Decimal(uiMetrics.reduce((acc, val) => new Decimal(acc).add(val).toNumber(), 0)).floor().div(100).ceil().toNumber();
 
