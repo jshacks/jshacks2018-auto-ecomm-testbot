@@ -40,19 +40,19 @@ Audience we are targeting with the product is comprised of shop owners, developm
 
 ### Survey
 
-User intent
+#### User intent
 ![User intent](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/001-intent.png)
 
-Session ended with a product being acquired 
+#### Session ended with a product being acquired 
 ![Buying](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/002-buying.png)
 
-Device usage 
+#### Device usage 
 ![Device usage](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/003-device.png)
 
-Performance 
+#### Performance 
 ![Performance](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/004-performance.png)
 
-Interface rating
+#### Interface rating
 ![User intent](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/005-interface.png)
 
 ### Audits
