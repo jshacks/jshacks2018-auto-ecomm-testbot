@@ -12,6 +12,7 @@ const userData = path.resolve(__dirname, '../data/user_data.csv');
 const mockData = path.resolve(__dirname, '../data/mock_data.csv');
 
 let metrics = {performance: [], ui: []};
+let labels = {performance: [], ui: []};
 for (const website of websites) {
   let lighthouseMetrics =fs.existsSync(path.resolve(lighthouseDir, `${website.slug}.json`)) ? JSON.parse(fs.readFileSync(path.resolve(lighthouseDir, `${website.slug}.json`), 'utf8')):null;
   let cssMetrics = JSON.parse(fs.readFileSync(path.resolve(cssDir, `${website.slug}.json`), 'utf8'))[0];
@@ -51,8 +52,10 @@ for (const website of websites) {
     const perfValue = row.split(',')[6];
     const uiValue   = row.split(',')[7];
 
-    metrics.performance.push(performanceMetrics.concat([new Decimal(perfValue).toNumber()]));
-    metrics.ui.push(uiMetrics.concat([new Decimal(uiValue).toNumber()]));
+    metrics.performance.push(performanceMetrics);
+    labels.performance.push([new Decimal(perfValue).toNumber()]);
+    metrics.ui.push(uiMetrics);
+    labels.ui.push([new Decimal(uiValue).toNumber()]);
   }
 }
 
@@ -62,8 +65,12 @@ fs.writeFileSync(path.resolve(__dirname, '../data/performance_train.json'), JSON
 fs.writeFileSync(path.resolve(__dirname, '../data/performance_test.json'), JSON.stringify(performanceTestData));
 
 const uiTrainData = metrics.ui.slice(0, new Decimal(metrics.ui.length).mul(0.9).floor());
+const uiTrainLabels = labels.ui.slice(0, new Decimal(metrics.ui.length).mul(0.9).floor());
 const uiTestData  = metrics.ui.slice(new Decimal(metrics.ui.length).mul(0.9).floor(), metrics.ui.length);
-fs.writeFileSync(path.resolve(__dirname, '../data/ui_train.json'), JSON.stringify(uiTrainData));
-fs.writeFileSync(path.resolve(__dirname, '../data/ui_test.json'), JSON.stringify(uiTestData));
+const uiTestLabels  = labels.ui.slice(new Decimal(metrics.ui.length).mul(0.9).floor(), metrics.ui.length);
+fs.writeFileSync(path.resolve(__dirname, '../data/ui_train_data.json'), JSON.stringify(uiTrainData));
+fs.writeFileSync(path.resolve(__dirname, '../data/ui_train_labels.json'), JSON.stringify(uiTrainLabels));
+fs.writeFileSync(path.resolve(__dirname, '../data/ui_test_data.json'), JSON.stringify(uiTestData));
+fs.writeFileSync(path.resolve(__dirname, '../data/ui_test_labels.json'), JSON.stringify(uiTestLabels));
 
 return;
