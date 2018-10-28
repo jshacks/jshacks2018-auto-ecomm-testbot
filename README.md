@@ -6,7 +6,7 @@
 
 Our goal is to develop and train an automated user experience TestBot that is able to predict the satisfaction of an user navigating an ecommerce mobile website.
 
-Meet RuxiBot your trusted e-commerce advisor that helps you rate user experience & interfaces by learning from your clients.
+Meet RuxiBot your trusted e-commerce advisor that Rates User Experience & Interfaces by learning from your clients.
 
 ## Approach
 
@@ -23,7 +23,7 @@ Audience we are targeting with the product is comprised of shop owners, developm
 
 ### Outputs
 
-* Percived website performance
+* Perceived website performance
 * Website aspect evaluation
 
 ## Results
