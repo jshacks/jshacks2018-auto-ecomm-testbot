@@ -1,6 +1,12 @@
 # Auto eCOMM TestBot
 
+Our goal is to develop and train an automated user experience TestBot that is able to predict the satisfaction of an user navigating an ecommerce mobile website.
+
+Meet RUXIBot your trusted e-commerce advisor that **R**eviews **U**ser **E**xperience & **I**nterfaces by learning from your clients.
+
 ![Logo](https://raw.githubusercontent.com/jshacks/jshacks2018-auto-ecomm-testbot/master/docs/logo.png)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnt6heGJZWscngF7IY7eOslms0l3Gus2dE_xmu3s4F28-N9L7dvwduBC2lZNpKKh0NXxFOJFJpX0OW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Team
 
@@ -9,12 +15,6 @@
 * Cristi Filimon (Shukar Koder)
 * Claudiu Harton (Web developer)
 * Raluca Serdaru (Web developer/Designer)
-
-## The goal
-
-Our goal is to develop and train an automated user experience TestBot that is able to predict the satisfaction of an user navigating an ecommerce mobile website.
-
-Meet RUXIBot your trusted e-commerce advisor that **R**ates **U**ser **E**xperience & **I**nterfaces by learning from your clients.
 
 ## Approach
 
